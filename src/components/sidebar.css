@@ -1,0 +1,17 @@
+
+.menu{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+   
+}
+.menu a{
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+
+   
+}
